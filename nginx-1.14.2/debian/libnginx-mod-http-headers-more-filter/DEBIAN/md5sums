@@ -1,0 +1,5 @@
+09636549b4afa2bdb5caee1ff7bc07b2  usr/lib/nginx/modules/ngx_http_headers_more_filter_module.so
+7680599a4ac8ba937aa7fd0992cfc26a  usr/share/doc/libnginx-mod-http-headers-more-filter/changelog.Debian.gz
+11f2b9048392b278abeec7521347a418  usr/share/doc/libnginx-mod-http-headers-more-filter/changelog.gz
+f89bef9fa1d22af419e5154ad3966930  usr/share/doc/libnginx-mod-http-headers-more-filter/copyright
+d1182d902b03a339a70a0c8a8aa3332f  usr/share/nginx/modules-available/mod-http-headers-more-filter.conf

@@ -1,0 +1,12 @@
+Package: libnginx-mod-http-xslt-filter-dbgsym
+Source: nginx
+Version: 1.14.2-2+deb10u1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>
+Installed-Size: 77
+Depends: libnginx-mod-http-xslt-filter (= 1.14.2-2+deb10u1)
+Section: debug
+Priority: optional
+Description: debug symbols for libnginx-mod-http-xslt-filter
+Build-Ids: d6bc10b99b5dbf895b1a3542a1d8043f2920abde
